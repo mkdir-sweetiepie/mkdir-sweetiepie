@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently developing **various kinds of robots (for example, humanoid robots, intelligent robots, Spherical Robot robots, balancing robots etc.).**
 
-- 🌱 I’m currently learning **Python, C, C++, ROS, Audino, vision, AI...**
+- 🌱 I’m currently learning **Python, C, C++, ROS, Audino, Vision, AI...**
 
 <p align="left">
 </p>
