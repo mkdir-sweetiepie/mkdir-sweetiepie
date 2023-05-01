@@ -1,12 +1,13 @@
-<h1 align="center">Hi 👋, I'm Jihyeon Hong</h1>
-<h2 align="center">A passionate robot developer from South Korea</h2>
+## 👋 Hi there, I'm Jihyeon Hong
 
-🔎I’m interested in 
-1️⃣humanoid robots
-2️⃣intelligent robots
-3️⃣Spherical Robot robots
-4️⃣balancing robots 
-
+### :mag_right: **I'm interested in** 
+> :one: **humanoid robots**  
+> :two: **intelligent robots**   
+> :three: **Spherical Robot robots**  
+> :four: **balancing robots**  
+<h3 align=center>
+:raising_hand: About me  
+</h3>s 
 
 <p align="left">
 </p>
