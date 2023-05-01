@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jihyeon Hong</h1>
-<h3 align="center">A passionate robot developer from South Korea</h3>
+<h2 align="center">A passionate robot developer from South Korea</h2>
 
 🔎I’m interested in 
-**various kinds of robots (for example, humanoid robots, intelligent robots, Spherical Robot robots, balancing robots etc.).**
+1️⃣humanoid robots
+2️⃣intelligent robots
+3️⃣Spherical Robot robots
+4️⃣balancing robots 
 
 
 <p align="left">
