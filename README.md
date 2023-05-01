@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jihyeon Hong</h1>
 <h3 align="center">A passionate robot developer from South Korea</h3>
 
-- 🔭 I’m currently developing **various kinds of robots (for example, humanoid robots, intelligent robots, Spherical Robot robots, balancing robots etc.).**
+🔎I’m interested in 
+**various kinds of robots (for example, humanoid robots, intelligent robots, Spherical Robot robots, balancing robots etc.).**
 
-- 🌱 I’m currently learning **Python, C, C++, ROS, Audino, Vision, AI...**
 
 <p align="left">
 </p>
