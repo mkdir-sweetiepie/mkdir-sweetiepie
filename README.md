@@ -1,5 +1,15 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=HongJihyeon&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Robotics&descAlignY=55&descAlign=72.8)
 
+# Hi, I am Hong Jihyeon
+
+### - Kwangwoon UNV DIVISION OF ROBOTICS Sophomore
+
+### - RO:BIT 17th Intelligence Robot Team <a href="https://github.com/RO-BIT-Intelligence-Robot-Team"><img src="https://img.shields.io/badge/Team RO:BIT-white?style=flat&logo=windowsterminal&logoColor=red"/></a>
+
+### I'm Interest in   
+🔎 **SLAM, Localization**<br>
+🔎 **Computer Vision**<br>
+🔎 **Autonomous Driving**<br>
 
 ## 👋 Hi there, I'm Jihyeon Hong
 
