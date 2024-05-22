@@ -22,7 +22,7 @@
 > <img src="https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=C&logoColor=white"/><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkdir-sweetiepie&repo=github-readme-stats)](https://github.com/mkdir-sweetiepie/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkdir-sweetiepie&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 > [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkdir-sweetiepie&exclude_repo=mkdir-sweetiepie.github.io&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
