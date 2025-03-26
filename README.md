@@ -3,7 +3,6 @@
 ### Who am I?
 - Robot Software Engineer
 - B.S in Robotics from Kwangwoon University, Seoul, South Korea (2023.3 ~ )
-- [RO:BIT](https://robit.tistory.com) 18th Intelligence Robot Team <a href="https://github.com/RO-BIT-Intelligence-Robot-Team"><img src="https://img.shields.io/badge/Team RO:BIT-white?style=flat&logo=windowsterminal&logoColor=red"/></a> (2024.1 ~ )
 <!--- [Blog](https://dev-lr.com) / [Blog(Legacy)](https://blog.naver.com/yymin1022)-->
 
 ---
@@ -14,11 +13,6 @@
 ---
 
 ### Awards
-- 전국학생설계경진대회
-- 소프트웨어 해커톤대회
-- 창의융합 해커톤대회
-- 과학중점학교 과제연구발표대회
-- 한국올림피아드
 - 씨름대회
 - 터틀봇 오토레이스
   
