@@ -33,7 +33,3 @@
 [![My Trophy](https://github-profile-trophy.vercel.app/?username=mkdir-sweetiepie&theme=darkhub&column=4&margin-w=10&margin-h=10)](https://github.com/mkdir-sweetiepie)
 
 ---
-
-### My Achievements
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=hong091788)](https://solved.ac/profile/hong091788)
-<a href="https://opgc.me/#/users/mkdir-sweetiepie" target="_blank"><img src="https://prd-opgc-api.opgc.me/githubs/users/mkdir-sweetiepie/tag/?theme=prism" /></a>
