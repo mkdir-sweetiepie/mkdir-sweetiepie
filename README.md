@@ -91,6 +91,6 @@ Currently working on **VR teleoperation systems for humanoid robots** at KETI (K
 ## Contact
 
 - **Email**: hong091788@naver.com
-- **Portfolio**: [Notion](https://www.notion.so/mkdirsweetiepie/)
+- **Blog**: [Notion](https://www.notion.so/mkdirsweetiepie/)
 
 [![Footer](https://capsule-render.vercel.app/api?type=waving&color=164EAB&height=100&section=footer)](https://github.com/mkdir-sweetiepie)
