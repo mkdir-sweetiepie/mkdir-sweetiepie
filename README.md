@@ -6,7 +6,7 @@
 
 Researcher and engineer focused on **SLAM**, **Sensor Fusion**, and **Computer Vision**. Passionate about advancing autonomous systems through rigorous research and practical engineering solutions.
 
-Currently working on **VR teleoperation systems for humanoid robots** at KETI (Korea Electronics Technology Institute).
+Currently working on **teleoperation systems for humanoid robots** at KETI (Korea Electronics Technology Institute).
 
 ---
 
